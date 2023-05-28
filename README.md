@@ -18,6 +18,21 @@
 
 ### Выполнения задания 1
 
+страница шаблона «Задание 1»
+
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/Задание1.JPG)  
+ 
+ для проверки загруженности процессора и опретивной памяти использованы два bash скрипта, каждый подключен через UserParameter
+  
+
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/cpu_load.JPG)  
+
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/ram.JPG)  
+ 
+ данные выводятся в мониторинг 
+ 
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/monitoring.JPG)   
+ 
 
 
  ---
