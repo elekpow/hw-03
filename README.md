@@ -23,18 +23,16 @@
  ![screen1](https://github.com/elekpow/hw-03/blob/main/Задание1.JPG)  
  
  для проверки загруженности процессора и опретивной памяти использованы два bash скрипта, каждый подключен через UserParameter
-  
+ 
+top -b -n1 | grep "Cpu(s)" | awk '{print $2+$4 } '
+ 
+free | awk 'NR==2{printf "%.2f\n", ($3)/$2*100}'
 
  ![screen1](https://github.com/elekpow/hw-03/blob/main/cpu_load.JPG)  
-
+ 
  ![screen1](https://github.com/elekpow/hw-03/blob/main/ram.JPG)  
  
- данные выводятся в мониторинг 
  
- ![screen1](https://github.com/elekpow/hw-03/blob/main/monitoring_.JPG)   
- 
-
-
  ---
 
 ### Задание 2
@@ -54,6 +52,11 @@
  ---
 
 ### Выполнения задания 2
+
+ 
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/monitoring_.JPG)   
+ 
+
 
 
  ---
