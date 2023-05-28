@@ -103,7 +103,8 @@ free | awk 'NR==2{printf "%.2f\n", ($3)/$2*100}'
 
 ### Выполнения задания 4
 
-
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/Задание4.JPG) 
+ 
  ---
 
 ### Задание 5* со звёздочкой
