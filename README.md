@@ -31,7 +31,7 @@
  
  данные выводятся в мониторинг 
  
- ![screen1](https://github.com/elekpow/hw-03/blob/main/monitoring.JPG)   
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/monitoring_.JPG)   
  
 
 
