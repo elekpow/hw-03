@@ -77,6 +77,14 @@ free | awk 'NR==2{printf "%.2f\n", ($3)/$2*100}'
 
 ### Выполнения задания 3
 
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/Задание2-3.JPG) 
+
+привязаны два шаблона на каждом хосте
+
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/host.JPG) 
+
+ ![screen1](https://github.com/elekpow/hw-03/blob/main/elvm.JPG)  
+
 
  ---
 
